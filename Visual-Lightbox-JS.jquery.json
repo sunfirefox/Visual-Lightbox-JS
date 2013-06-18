@@ -1,0 +1,29 @@
+{
+	"name": "Visual-Lightbox-JS",
+	"title": "Visual Lightbox JS - Native Template",
+	"description": "Visual Image Lightbox with JS and CSS. Native Style DEMO. If you want to add more life to your website or blog, one of the best ways is by inserting a Visual Lightbox JS.",
+	"keywords": [ "ui","effect", "modal", "window", "popup", "gallery", "image", "lightbox", "javascript", "jquery", "photo", "slider", "picture", "plugin", "responsive", "rotator", "slideshow"],
+	"version": "5.4.17",
+	"author": {
+		"name": "VisualLightBox.com",
+		"url": "http://visuallightbox.com"
+	},
+	"maintainers": [
+	{
+		"name": "VisualLightBox.com",
+		"url": "http://visuallightbox.com"
+	}
+	],
+	"licenses": [
+	{
+		"type": "Free for non-commercial use",
+		"url": "http://visuallightbox.com"
+	}
+	],
+	"homepage": "http://visuallightbox.com",
+	"demo": "http://www.visuallightbox.com/lightbox-mac-style-demo.html",
+	"download": "http://visuallightbox.com",
+	"dependencies": {
+		"jquery": ">=1.5"
+	}
+}
